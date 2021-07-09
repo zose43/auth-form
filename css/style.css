@@ -1,0 +1,9 @@
+.auth-wrapper{
+    border: 1px #e3e3e3 solid;
+    border-radius: 5px;
+}
+#toggle{
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 18px;
+}

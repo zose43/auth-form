@@ -1,0 +1,22 @@
+{
+    "name": "zose/auth-form",
+    "description": "auth-form",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AuthPage\\": "class/AuthPage"
+        }
+    },
+    "authors": [
+        {
+            "name": "zose",
+            "email": "zosya43nax@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "5.0.2",
+        "components/jquery": "dev-master"
+    }
+}
